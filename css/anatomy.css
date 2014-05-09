@@ -6,7 +6,7 @@
 #page
 {
 	z-index: 1;
-	width: 916px;
+	width: 917px;
 	min-height: 459.88225806451555px;
 	background-image: none;
 	border-style: none;
@@ -14,7 +14,7 @@
 	background-color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 20px 22px 20.117741935484446px;
+	padding: 20px 21px 20.117741935484446px 22px;
 }
 
 #pu105
@@ -222,8 +222,8 @@
 	width: 70px;
 	min-height: 27px;
 	margin-right: -10000px;
-	margin-top: 2px;
-	left: 845px;
+	margin-top: 3px;
+	left: 847px;
 }
 
 #u916-4:hover
@@ -231,7 +231,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 27px;
-	margin: 2px -10000px 0px 0px;
+	margin: 3px -10000px 0px 0px;
 }
 
 #u916-4:active
@@ -239,7 +239,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 27px;
-	margin: 2px -10000px 0px 0px;
+	margin: 3px -10000px 0px 0px;
 }
 
 #u916-4.MuseLinkActive
@@ -247,7 +247,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 27px;
-	margin: 2px -10000px 0px 0px;
+	margin: 3px -10000px 0px 0px;
 }
 
 #u765-4
